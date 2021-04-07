@@ -1,6 +1,5 @@
-# Clickbaiter
+# Cloud Native Clickbaiter
 
-Some useless stuff I hacked on for an hour or so.
-Generates clickbait tech headlines.
+This is a fork of the awesome project: https://github.com/cbrgm/clickbaiter but ready to support Cloud Native out of the box!
 
-Don't ask why.
+Go forth and generate the next big Unicorn 🦄
