@@ -3,9 +3,10 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/cbrgm/clickbaiter/clickbaiter"
 	"math/rand"
 	"time"
+
+	"github.com/cbrgm/clickbaiter/clickbaiter"
 )
 
 var hashtagsFlag = flag.Bool("hashtags", false, "use hashtags")
